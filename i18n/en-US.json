@@ -1,8 +1,5 @@
-[
-  {
-    "ACCOUNT-REGISTRY": "What is your email?",
-    "ACCOUNT-LOGIN": "What is your password",
-    "ACCOUNT-PASSWORD": "Type your old password",
-    "USER-HOUSE": "My house is hot"
-  }
-]
+[{
+  "WELCOME": "Hello World... 👋",
+  "ABOUT": "Just a simple way to translate an HTML website using languages.js",
+  "ACTION": "Click on the github link to learn more about the project. ✌️"
+}]
